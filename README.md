@@ -18,8 +18,10 @@ What is GIT?
    To create a new repository 
    
    1. Select "+" sign on top and click new repository.
-    2. give it a name and little description according to the project.
-    3. select the box if need a READ.me file and hit create repository.
+   
+   2. give it a name and little description according to the project.
+   
+   3. select the box if need a READ.me file and hit create repository.
 
 # Step 3. Create a Branch
  
@@ -36,12 +38,14 @@ What is GIT?
  # Step 4. Make Commits
  
   On GitHub any new changes to the old file or new file is called commits. It is the history of the projects.
-    To make a commit
-    1. Go to your ReadMe file
-    2. Click on the edit "pencil" icon.
-    3. Type something
-    4. In the commit section at the bottom type the change that made
-    5. Hit commit change button.
+    
+  To make a commit
+    
+   1. Go to your ReadMe file
+   2. Click on the edit "pencil" icon.
+   3. Type something
+   4. In the commit section at the bottom type the change that made
+   5. Hit commit change button.
  
  # Webstorm
  WebStorm is a powerful IDE for moder JavaScript developement. It provides full support for JavaScript, TypeScript, HTML, CSS. Beside client-side applications, WebStorm helps you develop server-side applications with Node.js, mobile apps with React Native or cordova and desktop apps with electron. The WebStorm window consists of the editor where you read, create and modify your code and menus and toolbars. a navigation bar, a status bar and a numberof webstorm tool windows. These secondary windows are attached to the bottom and to the sides of your workspace and let you debug your code, run tests, interact with your version control system etc.
