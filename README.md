@@ -15,7 +15,7 @@ What is GIT?
 # Step 2. Create a Repository.
   A repository is used to orgaize single project. It contains all the things required for a project such as folders, images, videos, spreadsheets, data sets. It also lets you add many people to one repository that are working on the same project. Making it easier for everyone to contribute towards that project from anywhere. 
    
-   To create a new repository 
+   To create a new repository:
    
    1. Select "+" sign on top and click new repository.
    
@@ -28,7 +28,7 @@ What is GIT?
  A respository has one branch named "Main" or "Master". Creating a branch is like drafts, it lets you experiment on the project by creating more than one branch before committing them to the "main" branch.
  you can also pull requests when someone commits changes to the main branches while you are working on a different branch to see those updated changes.
   
-  To create a branch 
+  To create a branch:
  
   1. Go to the repository. 
   2. Click on the drop down menu at the top.
@@ -39,7 +39,7 @@ What is GIT?
  
   On GitHub any new changes to the old file or new file is called commits. It is the history of the projects.
     
-  To make a commit
+  To make a commit:
     
    1. Go to your ReadMe file
    2. Click on the edit "pencil" icon.
