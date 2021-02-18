@@ -7,7 +7,7 @@ What is GIT?
  What is Github?
   Github is a cloud based hosting service that lets you manage GIT repositories. It helps when multiple people are working on a project. It lets you contribute to the project from anywhere. It also, lets you create branches in the project while working. Branches act like a draft before making a commit to the main brach. Main branch is a default branch of the repository. Those changes appear in the project directory when someone from a group has made a change in the main file or even on the draft.  
 
-# GitHub Tutorial: How to setup guide to GitHub
+# GitHub Tutorial: Guide to GitHub
 
 # Step 1. Create an account. 
  Create an account with GitHub. 
