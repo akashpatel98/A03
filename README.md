@@ -82,6 +82,7 @@ What is GIT?
 - It is the most basic element of GitHub. It has all the information you need for the project such as Images, videos, Spreadsheets, data sets etc. you can allow multiple contributors to one repository. A repository can be public or private.  
 
 References:
+
 https://www.edureka.co/blog/git-vs-github/
 https://guides.github.com/activities/hello-world/
 https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html
